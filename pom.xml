@@ -4,7 +4,7 @@
 
     <groupId>version.test</groupId>
     <artifactId>versioned</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.0.2</version>
     <packaging>jar</packaging>
 
     <name>verison test</name>
@@ -26,7 +26,7 @@
         <connection>scm:git:git@github.com:johnraOnGh/TestMavenRelesePlugin.git</connection>
         <developerConnection>scm:git:git@github.com:johnraOnGh/TestMavenRelesePlugin.git</developerConnection>
         <url>https://github.com/johnraOnGh/TestMavenRelesePlugin</url>
-        <tag>versioned@{project.version}</tag>
+        <tag>versioned-0.0.2</tag>
     </scm>
 
     <dependencies>
